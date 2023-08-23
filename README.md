@@ -4,3 +4,4 @@ TODO list:
 [] Implement native srp
 [] Add example
 [] Create serializable objects for responses
+[] Remove dart_pg dependency
