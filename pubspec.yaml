@@ -1,7 +1,7 @@
 name: proton_session
 description: A sample command-line application.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/j4qfrost/proton-session-dart.git
 
 environment:
   sdk: ^3.0.6
